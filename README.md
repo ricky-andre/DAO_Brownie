@@ -1,3 +1,6 @@
+This project has been cloned and modified in some contracts and test scripts, from this one:
+https://github.com/brownie-mix/dao-mix
+
 # DAO Mix
 
 <div id="top"></div>
